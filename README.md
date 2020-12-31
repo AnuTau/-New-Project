@@ -24,3 +24,7 @@ Which problems does your idea solve? How common or frequent is this problem? Wha
 
 Within the enviromental sector it will help with iradicating illegal hunters and poachers. This will be used to assist game rangers capture poachers and illegal hunters.
 
+Drones are more formally known as unmanned aerial vehicles (UAVs) or unmanned aircraft systems (UASes). Essentially, a drone is a flying robot that can be remotely controlled or fly autonomously through software-controlled flight plans in their embedded systems, working in conjunction with onboard sensors and GPS.
+
+An unmanned aerial vehicle is an aircraft without a human pilot on board. UAVs are a component of an unmanned aircraft system; which include a UAV, a ground-based controller, and a system of communications between the two
+
