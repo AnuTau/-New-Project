@@ -14,9 +14,3 @@ Which problems does your idea solve? How common or frequent is this problem? Wha
 * Problem 1 - It deals with automated drone servuilance. Allowing for more accurate overview and operations
 * Problem 2 - Provides a delivery system that does the job in half the time.
 * etc.
-
-## How is it used?
-Within the enviromental sector it will help with iradicating illegal hunters and poachers. This will be used to assist game rangers capture poachers and illegal hunters.
-
-Drones are more formally known as unmanned aerial vehicles (UAVs) or unmanned aircraft systems (UASes). Essentially, a drone is a flying robot that can be remotely controlled or fly autonomously through software-controlled flight plans in their embedded systems, working in conjunction with onboard sensors and GPS.
-
